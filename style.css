@@ -1,0 +1,42 @@
+
+body {
+    font-family: 'Merriweather', serif;
+    margin: 0;
+    padding: 0;
+    background-color: #FFFFFF;
+    color: #333333;
+    line-height: 1.6;
+}
+
+header {
+    background-color: #F8E1E7;
+    color: #333;
+    text-align: center;
+    padding: 2rem;
+}
+
+header h1 {
+    font-size: 2.5rem;
+    color: #D4AF37;
+}
+
+.btn {
+    display: inline-block;
+    margin-top: 1rem;
+    padding: 0.5rem 1rem;
+    background-color: #D4AF37;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+section {
+    padding: 2rem;
+    max-width: 800px;
+    margin: auto;
+}
+
+h2 {
+    font-family: 'Poppins', sans-serif;
+    color: #9A7D0A;
+}
